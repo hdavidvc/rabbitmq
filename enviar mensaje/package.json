@@ -1,0 +1,16 @@
+{
+  "name": "enviar-mensaje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqp-client": "^0.1.2",
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2"
+  }
+}
