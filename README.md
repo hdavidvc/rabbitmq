@@ -6,5 +6,5 @@ Implementacion de Rabbitmq utilizando NodeJS
 
 ## Authors
 
-- [@David cabrera](https://www.github.com/hdavidvc)
+- [@Hector David Cabrera](https://www.github.com/hdavidvc)
 
